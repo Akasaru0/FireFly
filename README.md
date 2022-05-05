@@ -19,6 +19,9 @@ https://collabnix.com/how-to-control-dji-tello-mini-drone-using-python/
 
 
 ##Module pico
+
 https://www.google.com/search?client=firefox-b-d&q=raspyberry+pi+pico+4g
 
 https://www.tomshardware.com/how-to/get-wi-fi-internet-on-raspberry-pi-pico
+
+https://www.twilio.com/docs/iot/supersim/get-started-with-super-sim-and-the-raspberry-pi-pico
