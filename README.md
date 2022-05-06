@@ -1,4 +1,11 @@
 # FireFly
+
+Trying to control my drone with a python script
+
+
+
+# Command
+
 git add main.py && git commit -m "initial commit " & git push
 
 
