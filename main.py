@@ -1,5 +1,4 @@
 from base64 import decode
-from email import message
 from socket import *
 from threading import *
 import time, pygame
